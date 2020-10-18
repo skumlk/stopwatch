@@ -1,0 +1,13 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Stopwatch
+Comment=Stopwatch App
+Exec=Stopwatch
+Icon=icon.png
+Categories=Utility;
+StartupNotify=true
+StartupWMClass=myscript
+
+X-GNOME-Autostart-enabled=true
+X-GNOME-Autostart-Delay=0
